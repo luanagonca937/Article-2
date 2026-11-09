@@ -1,0 +1,13 @@
+{
+  "documents_after_deduplication": 204,
+  "composite_AviTech-Bayes": 0.6,
+  "composite_LDA": 0.4,
+  "top_three_final_rank": [
+    "Sensors and monitoring",
+    "Machine learning / AI",
+    "Automation and robotics"
+  ],
+  "spearman_topsis_vikor": 0.893,
+  "monte_carlo_first_ML_AI": 0.431,
+  "monte_carlo_first_sensors": 0.34
+}

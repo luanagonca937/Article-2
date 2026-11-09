@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite the article and this repository."
+title: "Reproduction package for A Literature-Driven Topic Modeling and Multicriteria Screening Framework for Economic-Feasibility Evidence of Digital Technologies in Poultry Farming"
+type: software
+version: "1.0.0"
+date-released: "2026-11-05"
+license: MIT
+authors:
+  - family-names: "Guindani"
+    given-names: "Luana Gonçalves"
+    affiliation: "Industrial and Systems Engineering Graduate Program (PPGEPS), Universidade Tecnológica Federal do Paraná, Pato Branco, Brazil"
+  - family-names: "Lima"
+    name-particle: "de"
+    given-names: "Edson Pinheiro"
+    affiliation: "Production and Systems Engineering, Universidade Tecnológica Federal do Paraná, Curitiba, Brazil"
+  - family-names: "Deschamps"
+    given-names: "Fernando"
+    affiliation: "Production and Systems Engineering, Universidade Tecnológica Federal do Paraná, Curitiba, Brazil; Mechanical Engineering Department, Universidade Federal do Paraná, Curitiba, Brazil"
+keywords:
+  - poultry farming
+  - topic modeling
+  - multicriteria decision-making
+  - economic feasibility
+  - precision livestock farming

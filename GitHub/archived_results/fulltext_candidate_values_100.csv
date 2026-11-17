@@ -1,0 +1,101 @@
+﻿doi,year,journal,indicator_type,extracted_value,confidence,confidence_label
+10.1016/j.resglo.2026.100336,2024.0,,Investment/CAPEX value,"R$70,000",0.92,High
+10.1016/j.resglo.2026.100336,2024.0,,Cost saving or expense-reduction value,cost reductions (12%,0.88,High
+10.1016/j.resglo.2026.100336,2024.0,,Productivity/efficiency value,"productivity gains, lower mortality, improved feed conversion), cost reductions (12%",0.84,High
+10.1016/j.resglo.2026.100336,2024.0,,Productivity/efficiency value,"productivity gain reported in pilots with sensors and AI, adopting farms saw a 1.8%",0.84,High
+10.1016/j.resglo.2026.100336,2024.0,,Productivity/efficiency value,productivity gains (7%,0.84,High
+10.1016/j.resglo.2026.100336,2024.0,,Savings/cost-reduction numeric signal,7%,0.78,Medium
+10.1016/j.resglo.2026.100336,2024.0,,Savings/cost-reduction numeric signal,12%,0.78,Medium
+10.1016/j.resglo.2026.100336,2024.0,,Operational performance numeric signal,7%,0.72,Medium
+10.1016/j.resglo.2026.100336,2024.0,,Operational performance numeric signal,1.8%,0.72,Medium
+10.1016/j.resglo.2026.100336,2024.0,,Operational performance numeric signal,92%,0.72,Medium
+10.1016/j.resglo.2026.100336,2024.0,,Operational performance numeric signal,15%,0.72,Medium
+10.1016/j.resglo.2026.100336,2024.0,,Operational performance numeric signal,10%,0.72,Medium
+10.1016/j.resglo.2026.100336,2024.0,,Operational performance numeric signal,12.1%,0.72,Medium
+10.1016/j.resglo.2026.100336,2024.0,,General economic numeric signal,70%,0.62,Medium
+10.1016/j.resglo.2026.100336,2024.0,,General economic numeric signal,85%,0.62,Medium
+10.1016/j.resglo.2026.100336,2024.0,,General economic numeric signal,88%,0.62,Medium
+10.1016/j.resglo.2026.100336,2024.0,,General economic numeric signal,12%,0.62,Medium
+10.1016/j.psj.2026.107957,2026.0,,Operational performance numeric signal,6%,0.72,Medium
+10.1016/j.psj.2026.107957,2026.0,,General economic numeric signal,6%,0.62,Medium
+,2025.0,,Cost saving or expense-reduction value,"savings and productivity improvements, emphasizing its economic viability: 1) 16%",0.88,High
+,2025.0,,Cost saving or expense-reduction value,savings due to improved environmental control. 2) 25%,0.88,High
+,2025.0,,Savings/cost-reduction numeric signal,16%,0.78,Medium
+,2025.0,,Savings/cost-reduction numeric signal,25%,0.78,Medium
+,2025.0,,Savings/cost-reduction numeric signal,22%,0.78,Medium
+,2025.0,,Operational performance numeric signal,50%,0.72,Medium
+,2025.0,,Operational performance numeric signal,70%,0.72,Medium
+,2025.0,,Operational performance numeric signal,35%,0.72,Medium
+,2025.0,,Operational performance numeric signal,20%,0.72,Medium
+10.1016/j.procs.2025.09.570,2025.0,,Ambiguous numeric signal,60%,0.35,Low
+10.1016/j.biosystemseng.2018.06.018,,,Ambiguous numeric signal,59.9%,0.35,Low
+10.1016/j.biosystemseng.2018.06.018,,,Ambiguous numeric signal,26.9%,0.35,Low
+10.1016/j.biosystemseng.2018.06.018,,,Ambiguous numeric signal,60.0%,0.35,Low
+10.1016/j.psj.2026.107106,2026.0,,Operational performance numeric signal,63.9 %,0.72,Medium
+10.1016/j.psj.2026.107106,2026.0,,ROI/return-related numeric signal,25 %,0.72,Medium
+10.1016/j.psj.2026.107106,2026.0,,ROI/return-related numeric signal,5 %,0.72,Medium
+10.1016/j.psj.2026.107106,2026.0,,Ambiguous numeric signal,62 %,0.35,Low
+10.1016/j.psj.2026.107106,2026.0,,Ambiguous numeric signal,91 %,0.35,Low
+10.1016/j.psj.2026.107106,2026.0,,Ambiguous numeric signal,266 %,0.35,Low
+10.1016/j.psj.2026.107106,2026.0,,Ambiguous numeric signal,90 %,0.35,Low
+10.1016/j.psj.2026.107106,2026.0,,Ambiguous numeric signal,70 %,0.35,Low
+10.1016/j.psj.2026.107106,2026.0,,Ambiguous numeric signal,80 %,0.35,Low
+10.3390/ani12192580,2022.0,,Operational performance numeric signal,0.1%,0.72,Medium
+10.3390/ani12192580,2022.0,,Operational performance numeric signal,10.6%,0.72,Medium
+10.3390/ani12192580,2022.0,,Operational performance numeric signal,27.4%,0.72,Medium
+10.3390/ani12192580,2022.0,,Operational performance numeric signal,50.2%,0.72,Medium
+10.3390/ani12192580,2022.0,,Operational performance numeric signal,13.7 %,0.72,Medium
+10.3390/ani12192580,2022.0,,Operational performance numeric signal,7.5 %,0.72,Medium
+10.3390/ani12192580,2022.0,,Operational performance numeric signal,0.1 %,0.72,Medium
+10.3390/ani12192580,2022.0,,Operational performance numeric signal,13.3 %,0.72,Medium
+10.3390/ani12192580,2022.0,,Operational performance numeric signal,79.0 %,0.72,Medium
+10.3390/ani12192580,2022.0,,Operational performance numeric signal,9.7 %,0.72,Medium
+10.3390/ani12192580,2022.0,,Operational performance numeric signal,7.4 %,0.72,Medium
+10.3390/ani12192580,2022.0,,Operational performance numeric signal,10.6 %,0.72,Medium
+10.3390/ani12192580,2022.0,,Operational performance numeric signal,0.6 %,0.72,Medium
+10.3390/ani12192580,2022.0,,ROI/return-related numeric signal,75.5%,0.72,Medium
+10.3390/ani12192580,2022.0,,ROI/return-related numeric signal,58.9%,0.72,Medium
+10.3390/ani12192580,2022.0,,General economic numeric signal,100 %,0.62,Medium
+,,,Cost saving or expense-reduction value,"Low cost, Hardware, and software instrument to monitor environmen tal conditions of poultry farms 90%",0.88,High
+,,,Savings/cost-reduction numeric signal,92%,0.78,Medium
+,,,Savings/cost-reduction numeric signal,8%,0.78,Medium
+,,,General economic numeric signal,90%,0.62,Medium
+,,,Ambiguous numeric signal,63%,0.35,Low
+10.1017/s1751731120001391,,,Payback/break-even period,payback period of 25 years,0.93,High
+10.1017/s1751731120001391,,,ROI/return-related numeric signal,33%,0.72,Medium
+10.1017/s1751731120001391,,,ROI/return-related numeric signal,4%,0.72,Medium
+10.1017/s1751731120001391,,,ROI/return-related numeric signal,41%,0.72,Medium
+10.1017/s1751731120001391,,,ROI/return-related numeric signal,47%,0.72,Medium
+10.1016/j.psj.2026.106617,2026.0,,Operational performance numeric signal,2 %,0.72,Medium
+10.1016/j.psj.2026.106617,2026.0,,ROI/return-related numeric signal,400 %,0.72,Medium
+10.1016/j.psj.2026.106617,2026.0,,General economic numeric signal,2 %,0.62,Medium
+10.1016/j.psj.2026.106617,2026.0,,General economic numeric signal,45 %,0.62,Medium
+10.1016/j.psj.2026.106617,2026.0,,General economic numeric signal,40 %,0.62,Medium
+10.1016/j.psj.2026.106617,2026.0,,Ambiguous numeric signal,40 %,0.35,Low
+10.1016/j.psj.2026.106617,2026.0,,Ambiguous numeric signal,62 %,0.35,Low
+10.1016/j.psj.2026.106617,2026.0,,Ambiguous numeric signal,55 %,0.35,Low
+10.1016/j.psj.2026.106617,2026.0,,Ambiguous numeric signal,10 %,0.35,Low
+10.1016/j.psj.2026.106617,2026.0,,Ambiguous numeric signal,8 %,0.35,Low
+10.1016/j.psj.2026.106617,2026.0,,Ambiguous numeric signal,7 %,0.35,Low
+10.1016/j.psj.2026.106617,2026.0,,Ambiguous numeric signal,24.4 %,0.35,Low
+10.1016/j.psj.2026.106617,2026.0,,Ambiguous numeric signal,72 %,0.35,Low
+10.1016/j.psj.2026.106617,2026.0,,Ambiguous numeric signal,61.2 %,0.35,Low
+10.1016/j.psj.2026.106617,2026.0,,Ambiguous numeric signal,58.1 %,0.35,Low
+10.1016/j.psj.2025.106188,2025.0,,Operational performance numeric signal,80 %,0.72,Medium
+10.1016/j.psj.2025.106188,2025.0,,Operational performance numeric signal,100 %,0.72,Medium
+10.1016/j.psj.2025.105805,2025.0,,Ambiguous numeric signal,61 %,0.35,Low
+10.1016/j.psj.2025.105805,2025.0,,Ambiguous numeric signal,39 %,0.35,Low
+10.1016/j.psj.2024.104485,2024.0,,Operational performance numeric signal,15 %,0.72,Medium
+10.1016/j.psj.2024.104485,2024.0,,Operational performance numeric signal,26 %,0.72,Medium
+10.1016/j.psj.2024.104485,2024.0,,Operational performance numeric signal,20 %,0.72,Medium
+10.1016/j.psj.2024.104485,2024.0,,Operational performance numeric signal,65 %,0.72,Medium
+10.1016/j.psj.2024.104485,2024.0,,Ambiguous numeric signal,2.6 %,0.35,Low
+10.1016/j.psj.2024.104485,2024.0,,Ambiguous numeric signal,40 %,0.35,Low
+10.1016/j.psj.2025.105497,2025.0,,General economic numeric signal,26 %,0.62,Medium
+10.1016/j.psj.2025.105497,2025.0,,Ambiguous numeric signal,40 %,0.35,Low
+10.1016/j.psj.2025.105497,2025.0,,Ambiguous numeric signal,150 %,0.35,Low
+10.1016/j.psj.2025.105497,2025.0,,Ambiguous numeric signal,38 %,0.35,Low
+10.1016/j.psj.2025.105497,2025.0,,Ambiguous numeric signal,17 %,0.35,Low
+10.1016/j.psj.2019.10.054,,,ROI/return-related numeric signal,91.6%,0.72,Medium
+10.1016/j.psj.2019.10.054,,,ROI/return-related numeric signal,8.4%,0.72,Medium
+10.3382/ps/pey374,2026.0,,Ambiguous numeric signal,20%,0.35,Low
